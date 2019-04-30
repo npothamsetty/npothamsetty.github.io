@@ -1,0 +1,38 @@
+body {
+	font-family: SF-light;
+	background: #88E8E4;
+	color: white;
+	margin-top: 0px;
+}
+
+#shelf {
+	position: fixed;
+	background: #BC823A;
+	padding: 10px;
+	width: 120px;
+	font-family: SF-black;
+	border-radius: 100px;
+	align-items: center;
+   bottom: 50px; /* Top margin edge */
+   right: 100px;
+   z-index: 3;
+   cursor: pointer;
+}
+
+<div class= "furniture">
+	<div id= "shelf"> </div>
+	<div id= "boombox"></div>
+	<div id= "poster"></div>
+	<div id= "globe"></div>
+	<div class="books">
+		<div id = "PHA"></div>
+		<div id = "PF"></div>
+		<div id = "recipes"></div>
+	</div>
+
+</div>
+
+<div class="baking-row">
+		<div class="item"><img src="assets/bakingPics/5.jpg" height="403.2" width="302.4" ></div>
+		<div class="item"><img src="assets/bakingPics/8.jpg" height="403.2" width="302.4" ></div>
+	</div>

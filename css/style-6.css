@@ -1,0 +1,48 @@
+body {
+	font-family: SF Pro Text;
+	background: #FDFDFD;
+	color: white;
+	align-items: center;
+	padding: 20px;
+}
+
+#container {
+
+	width: 800px;
+	margin: 40px auto;
+	background: #AFC2D5;
+	box-shadow: 0px 0px 5px #edeae5;
+    border-radius: 10px;
+    height: 1000px;
+
+}
+
+#text-blocks {
+
+	padding: 0px 30px;
+}
+
+
+h1 {
+
+	position: relative;
+	text-align: left;
+	margin: 0px 10px;
+	padding: 20px;
+}
+
+hr {
+
+	color: white;
+	box-shadow: 0px;
+}
+
+a {
+	text-decoration:none;
+	color: white;
+}
+
+#block-1 p {
+
+	margin: 0px;
+}

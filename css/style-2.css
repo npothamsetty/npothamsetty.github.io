@@ -1,0 +1,56 @@
+html {
+
+	position: relative;
+	min-height: 100%;
+}
+
+body {
+	font-family: SF Pro Text;
+	background: #F1F1F6;
+	color: white;
+	margin-top: 0 auto;
+	margin-left: 110px;
+	padding: 25px;
+}
+
+p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.baking-container {
+	display: table;
+	border-spacing: 5px;
+	overflow: hidden;
+	align-items: center;
+	justify-content: center;
+	margin-top: 10px;
+	margin-left: 10px
+	
+}
+
+.baking-row {
+	display: table-row;
+	width: 100%;
+	text-align: center;
+}
+
+.item {
+	padding: 10px;
+	display: table-cell;
+	max-width: 100%;
+
+}
+
+.text {
+
+
+}
+
+.item:hover {
+
+	opacity: 0.5;
+
+}
