@@ -31,7 +31,6 @@ body {
   -webkit-animation-name: rotate;
   -webkit-animation-duration: 3s;
   -webkit-animation-iteration-count: infinite;
-  transition: ease-in-out;
   
 }
 
