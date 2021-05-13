@@ -17,6 +17,26 @@ body {
 
 }
 
+.content-img-wrapper {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.content-img {
+	width: 60%;
+}
+
+.content-img-wrapper .caption {
+	
+	margin-top: 20px;
+	font-size: 12px;
+	color: white;
+	
+}
+
 #text-blocks {
 
 	padding: 0px 30px;
