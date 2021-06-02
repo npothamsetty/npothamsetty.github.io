@@ -8,7 +8,7 @@ html body {
 	margin-left: 40px;
 	margin-right:40px;
 	min-width: 1500px;
-	position: relative;
+	position: absolute;
 	max-width: 1500px;
 	height: 900px;
 	
@@ -31,7 +31,8 @@ img {
 
 .container {
 
-	display: block;
+	display: flex;
+	justify-content: center;
 	position: absolute;
 	width: 600px;
 	background: #AFC2D5;
