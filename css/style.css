@@ -93,10 +93,9 @@ p {
 
 .social {
 	text-align: center;
-	top: 500px;
-	left: 300px;
+	top: 50px;
+	left: 400px;
 	width: 200px;
-	line-height: -30px;
 	padding: 1;
 	margin-left: -5%;
 }
