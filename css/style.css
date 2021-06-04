@@ -1,10 +1,9 @@
-
 html, body {
 	font-family: SF Pro Text;
 	color: #0e1111;
 	/*color: #003F9E;*/
 	margin: 0 auto;
-	position: relative;
+	position: absolute;
 	width: 100%;
 	height: 100%;
  
@@ -33,7 +32,7 @@ p {
 	position: absolute;
 	text-align: right;
 	top: 24px;
-	left: 204px;
+	right: -90px;
 }
 
 .info .balloon {
@@ -50,13 +49,28 @@ p {
 
 }
 
+#blog {
+	position: absolute;
+	left: 83;
+	top: 12.5;
+}
+
+#about {
+
+	position: absolute;
+	left: 108;
+	top: 12.5;
+
+}
+
 .fa {
   padding: 5px;
   font-size: 30px;
-  width: 25px;
+  width: 15px;
   text-align: left;
-  position: relative;
+  position: fixed;
   margin-top: 15px;
+  margin-left: 15px;
 }
 
 .fa:hover {
@@ -78,11 +92,13 @@ p {
 }
 
 .social {
-	text-align: right;
+	text-align: center;
 	top: 500px;
 	left: 300px;
 	width: 200px;
 	line-height: -30px;
+	padding: 1;
+	margin-left: -5%;
 }
 
 .balloon {
@@ -94,6 +110,10 @@ p {
     text-align: left;
     margin-bottom: 0px;
     
+}
+
+h2 {
+	font-size: 20;
 }
 
 .balloon .img-top {
@@ -130,14 +150,3 @@ p {
 	width: 75px;
 	position: relative;
 }
-
-
-#blog {
-
-
-} 
-
-#about {
-
-
-} 
