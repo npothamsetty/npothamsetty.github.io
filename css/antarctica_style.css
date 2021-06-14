@@ -34,14 +34,6 @@ body {
   
 }
 
-.blog:hover{
-	opacity: 0.5;
-}
-
-#about:hover {
-	opacity: 0.5;
-}
-
 #lightbox {
   display: none;
   position: fixed;
