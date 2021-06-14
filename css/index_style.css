@@ -63,11 +63,7 @@ p {
 
 }
 
-.a #about:hover {
-  opacity: 0.5;
-}
-
-.a #blog:hover {
+.a:hover {
   opacity: 0.5;
 }
 
