@@ -12,9 +12,15 @@ body {
 	margin: 40px auto;
 	background: #AFC2D5;
 	box-shadow: 0px 0px 5px #edeae5;
-    	border-radius: 10px;
-    	height: 800px;
+   	border-radius: 10px;
+   	height: 800px;
 
+}
+
+
+#container #blog {
+
+	height: 1200px;
 }
 
 .content-img-wrapper {
@@ -45,6 +51,7 @@ body {
 #text-blocks {
 
 	padding: 0px 30px;
+	padding-bottom: 15px;
 }
 
 img {
