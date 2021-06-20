@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="css/style-6.css" />
+	<title>blog_20210620</title>
+</head>
+</html>
+<body>
+<div id=content>
+	<div id="container">
+		<div class= "info">
+			<div id="header">
+			<h1>This post is not about urban planning</h1>
+			</div>
+
+			<div id=text-blocks>
+				<div class="block" id="block-1">
+					<p>Though I’ve written about urban planning in the past, I’ve only recently started to read the seminal Death and Life of Great American Cities by Jane Jacobs. The book is pretty thought provoking, but this post isn’t about urban planning. It’s about writing. I can never make it past a few pages of Jacobs’ writing without pausing to think about what she’s saying, writing notes, etc. Instead of saying things directly, she brings up different perspectives and ideas and makes you connect the dots yourself. This is the mark of a good writer and educator. Rather than “getting to the point quickly,” Jacobs paves an elegant path for us readers to reach the conclusions on our own.</p> <br> 
+
+				</div>	
+
+				<div class="block" id="block-2">
+					<p>Good writing makes what is only known through experience accessible through reading. The most effective way is to learn by experience, but this isn’t always available or practical. Some people have said that we humans haven’t made progress because we’re still making the same mistakes we did hundreds and thousands of years ago. This is because we can’t just accumulate and transmit knowledge via childbirth. Unlike birds, we aren’t born with the ability to “find North” : we have to first define “North” for ourselves. Culture, unlike instinct, is transmitted by way of education. The best teachers can be people, experiences, or books. The books that have stuck around are particularly good at cutting through language conventions and current affairs and deliver us timeless lessons, observations, and perspectives about human nature and reality itself. The only way to really learn about a perspective other than your own is to converse with someone—and if they’re dead, then you can fall back on reading their work.</p> <br>
+
+				</div>
+
+
+				<div class="block" id="block-3">
+					<p>We retell the same stories and teach the same life lessons over and over again because different packaging of these concepts will appeal to different people. Newer media generally are more easily “digestible” by people in our generation compared to the “classics.” Good artists, including writers, can interpret these lessons in a way that the masses of our generation find engaging, inspirational, and creative. It takes more work to read the old books, but you might find that in doing so, you are forced to spend more time understanding the concepts and internalizing them, rather than plowing through a popular science book and forgetting everything within one week. </p> <br>
+
+				</div>
+
+
+			</div>	
+
+			<div class="content-img-wrapper">
+				<img class="content-img" src="assets/blog_media/pizza.JPG">
+				<p class="caption">Pizza in the Dolomites</p>
+
+			</div>
+
+			<div class="home">
+
+				<p> <a href="blog.html"><u>back to the Blog</u></a> <br> </p>
+
+			</div>
+	</div>
+</div>
+</body>
+
+ 
+
+
+
