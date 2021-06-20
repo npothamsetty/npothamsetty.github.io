@@ -27,6 +27,16 @@ body {
 	height: 975px;
 }
 
+#long-container {
+
+	width: 800px;
+	margin: 40px auto;
+	background: #AFC2D5;
+	box-shadow: 0px 0px 5px #edeae5;
+    	border-radius: 10px;
+	height: 1350px;
+}
+
 .content-img-wrapper {
 	width: 100%;
 	display: flex;
