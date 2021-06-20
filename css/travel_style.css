@@ -16,7 +16,6 @@ body {
 	display: grid;
 	grid-template-columns: 400px 400px 400px;
 	grid-gap: 10px;
-	
 }
 
 .item {
@@ -24,37 +23,32 @@ body {
 	border-radius: 5px;
   position: relative;
   float: left;
-
 }
 
 /* Child Text Container */
 .item div {
 
   position: absolute;
-  top: 40%;
-  bottom: 40%;
-  width: 225px;
+  top: 50%;
+  left: 55%;
+  width: 200px;
+  height: 120px;
   background: black;
-  padding-left: 15px;
-  padding-right: 30px;
   color: #F1F1F6;
   font-family:  SF Pro Text;
   font-size: x-large;
-  line-height: 60.81px;
   justify-content: center;
   opacity: 0;
   visibility: hidden;
   -webkit-transition: visibility 0s, opacity 0.5s linear; 
   transition: visibility 0s, opacity 0.5s linear;
-
 }
 
 .item:hover {
-
   /* opacity: 0.8; */
   cursor: pointer;
-  
 }
+
 
 .item:hover div{
   width:  150px;
