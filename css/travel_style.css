@@ -30,12 +30,13 @@ body {
 /* Child Text Container */
 .item div {
 
-  position:  absolute;
+  position: absolute;
   top: 40%;
   bottom: 40%;
   width: 225px;
-  background: gray;
+  background: black;
   padding-left: 15px;
+  padding-right: 30px;
   color: #F1F1F6;
   font-family:  SF Pro Text;
   font-size: x-large;
@@ -54,7 +55,6 @@ body {
   cursor: pointer;
   
 }
-
 
 .item:hover div{
   width:  150px;
