@@ -16,6 +16,10 @@ body {
 	display: grid;
 	grid-template-columns: 400px 400px 400px;
 	grid-gap: 10px;
+	/* delete the below lines if there's a problem */ 
+	float: left;
+    	margin: 0;
+    	width: 100%;
 }
 
 .item {
