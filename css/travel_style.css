@@ -70,13 +70,12 @@ body {
 
 .balloon {
     position: absolute;
-    top: 46%;
-    left: 60%;
-    width: 100px;
-    height: 100px;
+    top: 90%;
+    left: 90%;
+    width: 80px;
+    height: 80px;
     text-align: left;
     margin-bottom: 0px;
-    
 }
 
 .balloon .img-top {
