@@ -16,17 +16,17 @@ body {
 	display: grid;
 	grid-template-columns: 400px 400px 400px;
 	grid-gap: 10px;
-	/* delete the below lines if there's a problem */ 
+	/* the below lines did nothing to change the white space issue. keeping them for reference
 	float: left;
     	margin: 0;
-    	width: 100%;
+    	width: 100%; */ 
 }
 
 .item {
 	padding: 10px;
 	border-radius: 5px;
-  position: relative;
-  float: left;
+  	position: relative;
+  	float: left;
 }
 
 /* Child Text Container */
@@ -59,4 +59,52 @@ body {
   padding:  8px 15px;
   visibility: visible;
   opacity: 0.8;
+}
+
+/* baloon animations below */
+
+.balloon {
+    position: absolute;
+    top: 46%;
+    left: 60%;
+    width: 100px;
+    height: 100px;
+    text-align: left;
+    margin-bottom: 0px;
+    
+}
+
+.balloon .img-top {
+
+	display: none;
+	z-index: 99; 
+}
+
+.balloon:hover .img-top {
+	animation: hop 1s infinite;
+}
+
+@keyframes hop {
+	from { 
+		transform: translateY(-0px);	
+	 }
+	 50% {
+		transform: translateY(10px)
+	}
+	to { transform: translateY(-0px);
+
+	}
+}
+
+#BW {
+	width: 75px;
+	max-width: 100%;
+	position: relative;
+    float: left;
+}
+
+#color {
+	max-width: 100%;
+	width: 75px;
+	position: relative;
 }
