@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="../css/style-6.css" />
+	<title>blog_20210325</title>
+</head>
+</html>
+<body>
+<div id=content>
+	<div id="long-container">
+		<div class= "info">
+			<div id="header">
+			<h1>Biased methodology leads to biased conclusions, which are exacerbated by "big data"</h1>
+			</div>
+
+			<div id=text-blocks>
+				<div class="block" id="block-1">
+					<p>In Berkeley’s <a href="https://ds100.org/"><u>Data Science 100</u></a> course, we students were instructed to find out why the voter polls leading up to the 2016 United States presidential election differed so much from the actual election results themselves. After running simulations of differing sample sizes, we saw that an increased sample size correlated with an increased level of inaccuracy: the more data we had, the more biased our findings were. What was going on? </p> <br> 
+
+				</div>	
+
+				<div class="block" id="block-2">
+					<p>It was later revealed that the sampling techniques we used were not representative of the population we were trying to make inferences about. In other words, the pool of poll respondents differed from that of the people who actually ended up voting in the 2016 election.</p> <br>
+
+				</div>
+
+				<div class="block" id="block-3">
+					<p>As we increase the amount of information we attempt to process and understand (i.e. Big Data), it is important to remember that more data isn’t always better. If our data source or method of understanding the data is biased, not only will our findings be biased, but we will be more confident in our biased conclusions due to a large sample size.</p> <br>
+
+				</div>
+
+				<div class="block" id="block-4">
+					<p>Biases, whether they are part of the universal human condition (like confirmation bias), or those more specific to our identities and lived experience, affect the questions we ask, the populations we study, and the seemingly “objective” interpretation of data. We project our prejudices, culture, and mental models as we carry out the scientific method, from hypothesis generation to conclusions. While some biases are fixable through methodological corrections, there are some that we’ll never be able to escape. The best we can do is acknowledge and attempt to better understand our epistemological shortcomings while underscoring the importance of diverse teams, who can see problems and ask questions from a wide variety of angles.</p> <br>
+
+				</div>
+
+			</div>	
+
+			<div class="content-img-wrapper">
+				<img class="content-img" src="../assets/blog_media/la_boqueria.JPG">
+				<p class="caption">Chillies in La Boqueria, Barcelona</p>
+
+			</div>
+
+			<div class="home">
+
+				<p> <a href="../blog.html"><u>Back to the Blog</u></a> <br> </p>
+
+			</div>
+	</div>
+</div>
+</div>
+</body>
+
+ 
+
+
+
