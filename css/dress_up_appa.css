@@ -1,0 +1,117 @@
+body {
+	font-family: SF Pro Text;
+	background: #FDFDFD;
+	color: white;
+	align-items: center;
+	padding: 20px;
+}
+
+#wide-container {
+
+	width: 900px;
+	margin: 40px auto;
+	background: #AFC2D5;
+	box-shadow: 0px 0px 5px #edeae5;
+    border-radius: 10px;
+    height: 600px;
+
+}
+
+#half-container {
+
+	width: 400px;
+	margin: 40px auto;
+	background: #3B707D;
+	box-shadow: 0px 0px 5px #edeae5;
+    border-radius: 10px;
+    height: 500px;
+}
+
+#costume-container {
+
+	width: 150px;
+	margin: 40px auto;
+	background: #E3ECF3;
+	box-shadow: 0px 0px 5px #edeae5;
+    border-radius: 10px;
+    height: 140px;
+
+}
+
+.content-img-wrapper {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.content-img {
+
+	/* The size of the big appa picture is 400 wide and 500 tall, same as half-container*/
+
+	width: 50%;
+}
+
+.content-img-wrapper .caption {
+	
+	margin-top: 5px;
+	font-size: 12px;
+	color: white;
+	
+}
+
+.costume-img-wrapper {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.costume-img {
+
+	/* for the dress-up items*/
+
+	width: 80%;
+}
+
+.costume-img-wrapper .caption {
+	/* for the dress-up items' descriptions*/
+
+	margin-top: 5px;
+	font-size: 12px;
+	color: #000000;
+
+}
+
+img {
+	border-radius: 2%;
+	margin: 10px;
+}
+
+
+h1 {
+
+	position: relative;
+	text-align: left;
+	margin: 0px 10px;
+	padding: 20px;
+}
+
+hr {
+
+	color: white;
+	box-shadow: 0px;
+}
+
+a {
+	text-decoration:none;
+	color: white;
+}
+
+.home {
+	text-align: center;
+}
