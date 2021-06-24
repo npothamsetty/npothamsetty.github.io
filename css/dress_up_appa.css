@@ -42,8 +42,8 @@ body {
 }
 
 .content-img-wrapper {
-	width: 10px;
-	height: 0px;
+	width: 499px;
+	height: auto;
 	margin-left: 50px;
 	/* 	display: flex;
 	flex-direction: column;
