@@ -14,8 +14,8 @@ body {
 	/* margin: 30px auto; */
 	background: #AFC2D5;
 	box-shadow: 0px 0px 5px #edeae5;
-    border-radius: 10px;
-    height: 800px;
+    	border-radius: 10px;
+    	height: 800px;
 
 }
 
@@ -27,8 +27,9 @@ body {
 	box-shadow: 0px 0px 5px #edeae5;
     border-radius: 10px;
     height: 625px;
-    margin-left: 50%;
+    margin-left: 42.5%;
     margin-top: 30px;
+    position: absolute;
 }
 
 .costume-container {
@@ -38,13 +39,14 @@ body {
 	/* box-shadow: 0px 0px 5px #edeae5; */
     border-radius: 10px;
     height: 140px;
-
+    position: absolute;
 }
 
 .content-img-wrapper {
 	width: 499px;
 	height: auto;
 	margin-left: 50px;
+	position: absolute;
 	/* 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -93,7 +95,8 @@ body {
 
 img {
 	border-radius: 2%;
-	margin: 10px;
+	/* margin: 10px;*/
+	
 }
 
 
@@ -115,7 +118,7 @@ hr {
 
 p {
 
-	margin: 0px auto;
+	margin-top: 6.5%;
 }
 
 a {
@@ -123,7 +126,6 @@ a {
 	color: white;
 }
 
-/* "Start Over" and "Home" are moving together—same object*/
 
 .home {
 	text-align: center;
@@ -136,8 +138,8 @@ a {
 
 #main_home.home{
 
-	top: 8%;
-	left: 85%;
+	top: 5%;
+	left: 80%;
 	background: #E3ECF3;
 
 }
@@ -145,29 +147,51 @@ a {
 #start_over.home {
 
 	background: #C4C4C4;
+	left: 38%;
+	bottom: 2.5%;
+	/*How to center text within button?*/
 
 }
 
 #devil_horns.costume-container {
 
+	bottom: 72.5%;
+	left: 5%;
+
 }
 
 #glasses.costume-container {
+
+	bottom: 72.5%;
+	right: 5%;
+
 
 }
 
 #bowtie.costume-container {
 
+	bottom: 45%;
+	left: 5%;
+
 }
 
 #cal_hat.costume-container {
+
+	bottom: 45%;
+	right: 5%;
 
 }
 
 #santa_hat.costume-container {
 
+	bottom: 15%;
+	left: 5%;
+
 }
 
 #avatar_arrow.costume-container {
+
+	bottom: 15%;
+	right: 5%;
 
 }
