@@ -14,14 +14,14 @@ body {
 	/* margin: 30px auto; */
 	background: #AFC2D5;
 	box-shadow: 0px 0px 5px #edeae5;
-    	border-radius: 10px;
-    	height: 800px;
+    border-radius: 10px;
+    height: 800px;
 
 }
 
 #half-container {
 
-	width: 500px;
+	width: 455.5px;
 	background: #3B707D;
 	/* fix color of box shadow */
 	box-shadow: 0px 0px 5px #edeae5;
@@ -43,7 +43,7 @@ body {
 }
 
 .content-img-wrapper {
-	width: 499px;
+	width: 455.5px;
 	height: auto;
 	margin-left: 50px;
 	position: absolute;
@@ -138,7 +138,7 @@ a {
 
 #main_home.home{
 
-	top: 5%;
+	top: 7.5%;
 	left: 80%;
 	background: #E3ECF3;
 
