@@ -212,6 +212,17 @@ a {
 	}
 }
 
+/*  html for changing outfits
+	taken from WDD assignment 9 */
+
+.costume {
+
+	z-index: 10;
+	position: absolute;
+	display: none;
+}
+
+
 /* specs for devil horns 
 image:  
 width:  110px;
