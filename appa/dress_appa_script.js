@@ -15,7 +15,9 @@ $(document).ready(function() {
 		/* When you click a dress-up item of class costume-img,
 		want it to show*/
 
-		let large_id_name = '"#' + (this).id + '_large"'
+		id_name = $(this).id
+
+		let large_id_name = '"#' + id_name + '_large"'
 
 		$(large_id_name).show();
 	});
