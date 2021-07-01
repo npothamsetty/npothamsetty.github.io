@@ -8,16 +8,16 @@ add the dress up capabilities*/
 	
 
 $(document).ready(function() {
-	// $("#BW").hide();
+	
 
 	$(".costume-container").click(function() {
 
 		/* When you click a dress-up item of class costume-img,
 		want it to show*/
 
-		id_name = $(this).id
+		// id_name = $(this).id
 
-		let large_id_name = '"#' + id_name + '_large"'
+		let large_id_name = '"#' + this.id + '_large"' 
 
 		$(large_id_name).show();
 	});
@@ -31,3 +31,17 @@ $(document).ready(function() {
 
 
 });
+
+
+
+/* $(".mid-button").hover(function() {
+		if ($(this).is('#aco')) {
+			$("#preview-container").css("background-image", "url('assets/img/aco_1_crop.jpg')");
+			$("#description").addClass("aco");
+			if ($("#description").hasClass("maru")) {
+				$("#description").removeClass("maru");
+			} else if ($("#description").hasClass("kotetsu")) {
+				$("#description").removeClass("kotetsu");
+			} else if ($("#description").hasClass("gaku")) {
+				$("#description").removeClass("gaku");
+			}
