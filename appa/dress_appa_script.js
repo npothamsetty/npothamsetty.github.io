@@ -15,21 +15,16 @@ $(document).ready(function() {
 		/* When you click a dress-up item of class costume-img,
 		want it to show*/
 
-		// get the new ID
+		// get the new 
 
-		// large_id_name = "\"#" document.querySelector(this).id + "_large\""
+		left_quote = 
+
+		large_id_name = '"#' this.id + '_large"'
 
 		// wnat the thing of the class "costume", not costue contianer
 
-		$("#santa_hat_large").show();
+		$(large_id_name).show();
 	});
-
-		// change the CSS to "show" for the large id name 
-
-		// document.getElementByID(large_id_name).css("display", "show");
 
 
 });
-
-
-
