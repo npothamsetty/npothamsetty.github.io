@@ -21,7 +21,8 @@ $(document).ready(function() {
 
 		let large_id_name = '#' + id_name + '_large' 
 
-		$(large_id_name).show();
+		document.querySelector(large_id_name).show();
+		
 	});
 
 	$("#start-over").click(function() {
