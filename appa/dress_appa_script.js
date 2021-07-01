@@ -17,7 +17,7 @@ $(document).ready(function() {
 
 		// id_name = $(this).id
 
-		let large_id_name = '"#' + this.id + '_large"' 
+		let large_id_name = '"#' + document.querySelector(this).id + '_large"' 
 
 		$(large_id_name).show();
 	});
@@ -31,17 +31,3 @@ $(document).ready(function() {
 
 
 });
-
-
-
-/* $(".mid-button").hover(function() {
-		if ($(this).is('#aco')) {
-			$("#preview-container").css("background-image", "url('assets/img/aco_1_crop.jpg')");
-			$("#description").addClass("aco");
-			if ($("#description").hasClass("maru")) {
-				$("#description").removeClass("maru");
-			} else if ($("#description").hasClass("kotetsu")) {
-				$("#description").removeClass("kotetsu");
-			} else if ($("#description").hasClass("gaku")) {
-				$("#description").removeClass("gaku");
-			}
