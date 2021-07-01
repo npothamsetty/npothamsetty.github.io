@@ -17,11 +17,18 @@ $(document).ready(function() {
 
 		// get the new 
 
-		let large_id_name = '"#' this.id + '_large"'
+		let large_id_name = '"#' + this.id + '_large"'
 
 		// wnat the thing of the class "costume", not costue contianer
 
 		$(large_id_name).show();
+	});
+
+	$("#start-over").click(function() {
+
+		// want to take everything off 
+
+		$(".costume").hide();
 	});
 
 
