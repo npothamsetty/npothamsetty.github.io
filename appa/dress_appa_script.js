@@ -4,19 +4,11 @@ add the dress up capabilities*/
 /* Add the hover over the costume choice and have it change background color or something
 	want it to have a shadow around it (can get code from regular large-container css)
 
-	Fix "Start Over" button*/
+	Add functionality to "Start Over" button*/
 	
 
 $(document).ready(function() {
-// jQuery and JavaScript code goes in here!
-
-
-
-// $("name of selector").hover(function() {
-	// code that should execute
-	// when the button is hovered over 
-	// $("#image").fadeIn()
-
+	// $("#BW").hide();
 
 	$(".costume-container").click(function() {
 
@@ -30,12 +22,12 @@ $(document).ready(function() {
 		// wnat the thing of the class "costume", not costue contianer
 
 		$("#santa_hat_large").show();
+	});
 
 		// change the CSS to "show" for the large id name 
 
 		// document.getElementByID(large_id_name).css("display", "show");
 
-	});
 
 });
 
