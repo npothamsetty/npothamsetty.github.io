@@ -17,9 +17,7 @@ $(document).ready(function() {
 
 		// get the new 
 
-		left_quote = 
-
-		large_id_name = '"#' this.id + '_large"'
+		let large_id_name = '"#' this.id + '_large"'
 
 		// wnat the thing of the class "costume", not costue contianer
 
