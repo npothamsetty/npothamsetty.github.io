@@ -15,7 +15,9 @@ $(document).ready(function() {
 		/* When you click a dress-up item of class costume-img,
 		want it to show*/
 
-		let id_name = document.querySelector(this).id
+		// let id_name = document.querySelector(this).id
+
+		let id_name = $(this).id
 
 		let large_id_name = '#' + id_name + '_large' 
 
