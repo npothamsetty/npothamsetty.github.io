@@ -25,20 +25,16 @@ $(document).ready(function() {
 
 		// set the name of the id = the object
 
-		let id_name = $(this).id
+		let id_name = $(this).id;
 
 		// add the name of the object to the thing "large"
 
-		let large_id_name = id_name + "_large"
+		let large_id_name = id_name + "_large";
 
 		// change the CSS to "show" for the large id name 
 
-		document.getElementByID(large_id_name).css("display", "show")
+		document.getElementByID(large_id_name).css("display", "show");
 
 	}
 
 });
-
-
-
-
