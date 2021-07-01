@@ -41,6 +41,11 @@ body {
     border-radius: 10px;
     height: 140px;
     position: absolute;
+    
+}
+
+.costume-container:hover {
+	cursor: pointer;
 }
 
 .content-img-wrapper {
