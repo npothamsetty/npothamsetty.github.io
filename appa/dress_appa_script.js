@@ -15,11 +15,7 @@ $(document).ready(function() {
 		/* When you click a dress-up item of class costume-img,
 		want it to show*/
 
-		// get the new 
-
-		let large_id_name = '"#' + this.id + '_large"'
-
-		// wnat the thing of the class "costume", not costue contianer
+		let large_id_name = '"#' + (this).id + '_large"'
 
 		$(large_id_name).show();
 	});
