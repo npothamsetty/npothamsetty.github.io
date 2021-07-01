@@ -18,23 +18,26 @@ $(document).ready(function() {
 	// $("#image").fadeIn()
 
 
-	$(".costume-container").click(function()) {
+	$(".costume-container").click(function() {
 
 		/* When you click a dress-up item of class costume-img,
 		want it to show*/
 
-		// set the name of the id = the object
+		// get the new ID
 
-		let id_name = $(this).id;
+		// large_id_name = "\"#" document.querySelector(this).id + "_large\""
 
-		// add the name of the object to the thing "large"
+		// wnat the thing of the class "costume", not costue contianer
 
-		let large_id_name = id_name + "_large";
+		$("#santa_hat_large").show();
 
 		// change the CSS to "show" for the large id name 
 
-		document.getElementByID(large_id_name).css("display", "show");
+		// document.getElementByID(large_id_name).css("display", "show");
 
-	}
+	});
 
 });
+
+
+
