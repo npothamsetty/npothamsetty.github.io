@@ -37,7 +37,6 @@ body {
 
 	width: 150px;
 	background: #E3ECF3;
-	/* box-shadow: 0px 0px 5px #edeae5; */
     border-radius: 10px;
     height: 140px;
     position: absolute;
@@ -158,9 +157,16 @@ a {
 	background: #C4C4C4;
 	left: 38%;
 	bottom: 2.5%;
-	/*How to center text within button?*/
 
 }
+
+#start_over:hover {
+
+	color: #E3ECF3;
+	background-size: 105% 150%;
+}
+
+
 
 #devil_horns.costume-container {
 
