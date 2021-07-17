@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="../css/style-6.css" />
+	<title>blog_hindi</title>
+</head>
+</html>
+<body>
+<div id=content>
+	<div id="blog-container">
+		<div class= "info">
+			<div id="header">
+			<h1>The Hindi Project</h1>
+			</div>
+
+			<div id=text-blocks>
+				<div class="block" id="block-1">
+					<p>It's July 15, 2021. I'm spending the last of my work-free weeks in the home stretch of my latest project: applying for a <a href="https://us.fulbrightonline.org/"><u>Fulbright Grant</u></a> to India. The organization I’m hoping to partner with is in New Delhi, the capital of India. Because of this, I’ve taken it upon myself to learn some Hindi before I spend nine months in the heart of India. Interestingly enough, the name “Delhi” comes from the Hindi word for heart, “Dil” (दिल). </p> <br> 
+
+				</div>	
+
+				<div class="block" id="block-2">
+					<p>To help me, I’m digging out my incredibly old and under-used copy of <a href="http://www.worldcat.org/oclc/880783760"><u>Fluent in 3 Months</u></a> by Benny Lewis, re-activating my <a href="https://www.duolingo.com/learn"><u>Duolingo</u></a> account, creating  <a href="https://apps.ankiweb.net/"><u>Anki</u></a> flashcards, and using various online resources that I’ll share on this blog as I continue to self-study. I'm beginning by learning basic conversational phrases verbally and learning how to write the alphabet. My pronunciation isn’t too bad, just from my experience with Bollywood films and music. I have a lot to learn, and once I have a few conversation-starters under my belt, I’ll start looking for some partners to practice with.</p> <br>
+
+				</div>
+
+			</div>	
+
+			<div class="content-img-wrapper">
+				<img class="content-img" src="../assets/blog_media/infinity.jpg">
+				<p class="caption">Yayoi Kusama's Infinity Mirror in Los Angeles, CA</p>
+
+			</div>
+
+			<div class="home">
+
+				<p> <a href="../blog.html"><u>Back to the Blog</u></a> <br> </p>
+
+
+			</div>
+	</div>
+</div>
+</div>
+</body>
+
+ 
+
+
+
