@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="../css/style-6.css" />
+	<title>Past Work</title>
+</head>
+</html>
+<body>
+<div id=content>
+	<div id="blog-container" style="height:1200px;">
+		<div class= "info">
+			<div id="header" style="text-align: center; font-size: 40px;">
+			<h1>Past Work
+			</h1>
+			</div>
+
+			<div id=text-blocks>
+				<div class="block" id="block-1">
+					<p> I’ve tried various reading tracking tools like <a href="https://www.goodreads.com/user/show/46696600-navya"><u>Goodreads</u></a> and <a href="https://oku.club/user/krispybacon"><u>Oku</u></a>, but I thought a “reading pipeline” was the best way to organize and track what I’ve been reading. Inspiration from <a href="https://meltingasphalt.com/what-im-reading/"><u>Kevin Simler</u></a>, who got it from <a href="https://www.ribbonfarm.com/now-reading/"><u>Venkatesh Rao</u></a>...shoulders of giants and whatnot. </p><br>
+
+
+					<p> This page was last updated on January 10, 2022. There are only two books by female authors. As a writer myself, I’ve spent some time thinking about why.</p><br>
+
+				</div>	
+
+				<div class="block">
+
+					<u1 type="disc">
+						<li><b>Currently Reading</b>
+
+							<ul>
+								<li><em>Steve Jobs,</em>Walter Isaacson</li>
+								<li><em>Six Easy Pieces,</em>Richard Feynman</li>
+								<li><em>The Open Society and Its Enemies,</em>Karl Popper</li>
+							</ul>
+
+						</li>
+
+						<li><b>Recently Finished</b>
+
+							<ul>
+								<li><em>How to Think Like Shakespeare,</em> Scott Newstok</li>
+								<li><em>Pale Fire,</em> Vladimir Nabokov</li>
+								<li><em>Verity,</em> Colleen Hoover</li>
+								<li><em>Crossings,</em> Alex Landragin</li>
+								<li><em>The Almanack of Naval Ravikant,</em> Eric Jorgenson</li>
+							</ul>
+
+						</li>
+
+						<li><b>Up Next</b>
+
+							<ul>
+								<li><em>The Monk and the Riddle,</em> Randy Komisar</li>
+								<li><em>The Sovereign Individual: Mastering the Transition to the Information Age,</em> James Dale Davidson & Lord William Rees-Mog</li>
+							</ul>
+
+						</li>
+
+						<li><b>All Time Favorites</b>
+
+							<ul>
+								<li><em>Siddartha,</em> Herman Hesse</li>
+								<li><em>The Wisdom of Insecurity,</em> Alan Watts</li>
+								<li><em>Percy Jackson and the Olymplians</em> (Series), Rick Riordan</li>
+								<li><em>The Incerto,</em> specifically <em>Antifragile,</em> Nassim Taleb</li>
+								<li><em>The Almanack of Naval Ravikant,</em> Eric Jorgenson</li>
+								<li><em>Life of Pi,</em> Yann Martel</li>
+								<li><em>Sapiens: A Brief History of Humankind,</em> Yuval Noah Harari</li>
+								<li><em>Reality is Not What It Seems,</em> Carlo Rovelli</li>
+								<li><em>Meditations,</em> Marcus Aurelius</li>
+								<li><em>A Gentleman in Moscow,</em> Amor Towles</li>
+								<li><em>Medical Nihilism,</em> Jacob Stenenga</li>
+								<li><em>Brave New World,</em> Aldous Huxley</li>
+								<li><em>How to Do Nothing,</em> Jenny Odell</li>
+								<li><em>When Breath Becomes Air,</em> Paul Kalanithi</li>
+								<li><em>Freaknomics,</em> Steven Levitt</li>
+								<li><em>And Then There Were None,</em> Agatha Christie</li>
+							</ul>
+
+						</li>
+
+						<li><b>Antilibrary</b>
+
+							<ul>
+								<li><em>The Compleat Strategyst,</em> J.D. Williams</li>
+								<li><em>The Evolution of Cooperation,</em> Robert Axelrod</li>
+								<li><em>The Beginning of Infinity</em> (Series), David Deutsch</li>
+							</ul>
+
+						</li>
+						
+					</u1>
+
+				</div>
+
+			</div>	
+
+			<div class="home">
+
+				<p> <a href="../blog.html"><u>About Me</u></a> <br> </p>
+
+			</div>
+	</div>
+</div>
+</body>
