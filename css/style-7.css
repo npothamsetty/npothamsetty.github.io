@@ -1,0 +1,157 @@
+body {
+	font-family: SF Pro Text;
+	background: #FDFDFD;
+	color: white;
+	align-items: center;
+	padding: 20px;
+}
+
+#container {
+
+	width: 800px;
+	margin: 40px auto;
+	background: #AFC2D5;
+	box-shadow: 0px 0px 5px #edeae5;
+    border-radius: 10px;
+    height: 850px;
+
+}
+
+#blog-container {
+
+	width: 800px;
+	margin: 40px auto;
+	background: #AFC2D5;
+	box-shadow: 0px 0px 5px #edeae5;
+    border-radius: 10px;
+	height: 975px;
+}
+
+#long-container {
+
+	width: 800px;
+	margin: 40px auto;
+	background: #AFC2D5;
+	box-shadow: 0px 0px 5px #edeae5;
+    border-radius: 10px;
+	height: 1300px;
+}
+
+.content-img-wrapper {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.content-img {
+	width: 50%;
+}
+
+.content-img-wrapper .caption {
+	
+	margin-top: 5px;
+	font-size: 12px;
+	color: white;
+	
+}
+
+#text-blocks {
+
+	padding: 0px 30px;
+	padding-bottom: 15px;
+}
+
+img {
+	border-radius: 2%;
+	margin: 10px;
+}
+
+#header {
+
+	text-align: center;
+	font-size: 35px;
+	/* equivalent to 20 font size */
+}
+
+#top-header {
+
+}
+
+.blog-title {
+
+	font-size: 35px;
+	text-decoration-color: #607466;
+}
+
+#nav {
+
+
+}
+
+#nav-blog {
+
+
+}
+
+#nav-about {
+
+
+}
+
+#nav-ephemera {
+
+
+}
+
+h1 {
+
+	position: relative;
+	text-align: left;
+	margin: 0px 10px;
+	padding: 20px;
+}
+
+hr {
+
+	color: white;
+	box-shadow: 0px;
+}
+
+a {
+	text-decoration:none;
+	color: white;
+}
+
+/* Eventually focus on making the p a class and not an ID
+.block p {
+
+	margn: 0px;
+} */
+
+
+#block-1 p {
+
+	margin: 0px;
+}
+
+#block-2 p {
+
+	margin: 0px;
+}
+
+#block-3 p {
+
+	margin: 0px;
+}
+
+#block-4 p {
+
+	margin: 0px;
+}
+
+.home {
+	text-align: center;
+}
